@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject", "FramworkNETProject\FramworkNETProject.csproj", "{16D3E591-5594-40BB-AAA0-5576DD7D1B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject.DataAccess", "FramworkNETProject.DataAccess\FramworkNETProject.DataAccess.csproj", "{BAA384FA-6249-438A-A306-E7B54F1E4379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject.Document", "FramworkNETProject.Document\FramworkNETProject.Document.csproj", "{580DC736-203E-4A01-835B-D0174F511A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject.Models", "FramworkNETProject.Models\FramworkNETProject.Models.csproj", "{15B3F043-9BE2-4443-80A0-DCD363774515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject.Resources", "FramworkNETProject.Resources\FramworkNETProject.Resources.csproj", "{2A6D0D75-A32B-4D53-A66A-50E057BA0C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject.Utils", "FramworkNETProject.Utils\FramworkNETProject.Utils.csproj", "{BFFCF2CE-7F16-4859-8F59-3D541512DFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramworkNETProject.EmailService", "FramworkNETProject.EmailService\FramworkNETProject.EmailService.csproj", "{1834B0AA-91F5-4FB6-884E-9DE0F98A0A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D3E591-5594-40BB-AAA0-5576DD7D1B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D3E591-5594-40BB-AAA0-5576DD7D1B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D3E591-5594-40BB-AAA0-5576DD7D1B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D3E591-5594-40BB-AAA0-5576DD7D1B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA384FA-6249-438A-A306-E7B54F1E4379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA384FA-6249-438A-A306-E7B54F1E4379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA384FA-6249-438A-A306-E7B54F1E4379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA384FA-6249-438A-A306-E7B54F1E4379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580DC736-203E-4A01-835B-D0174F511A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580DC736-203E-4A01-835B-D0174F511A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580DC736-203E-4A01-835B-D0174F511A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580DC736-203E-4A01-835B-D0174F511A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B3F043-9BE2-4443-80A0-DCD363774515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3F043-9BE2-4443-80A0-DCD363774515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3F043-9BE2-4443-80A0-DCD363774515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3F043-9BE2-4443-80A0-DCD363774515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6D0D75-A32B-4D53-A66A-50E057BA0C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6D0D75-A32B-4D53-A66A-50E057BA0C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6D0D75-A32B-4D53-A66A-50E057BA0C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6D0D75-A32B-4D53-A66A-50E057BA0C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFCF2CE-7F16-4859-8F59-3D541512DFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFCF2CE-7F16-4859-8F59-3D541512DFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFCF2CE-7F16-4859-8F59-3D541512DFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFCF2CE-7F16-4859-8F59-3D541512DFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1834B0AA-91F5-4FB6-884E-9DE0F98A0A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1834B0AA-91F5-4FB6-884E-9DE0F98A0A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1834B0AA-91F5-4FB6-884E-9DE0F98A0A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1834B0AA-91F5-4FB6-884E-9DE0F98A0A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
